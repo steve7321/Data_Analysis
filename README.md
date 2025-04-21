@@ -8,7 +8,7 @@ Each notebook is designed as a self-contained module with explanations, code exa
 | Subject         | Description                                                                |
 |-----------------|----------------------------------------------------------------------------|
 | Preprocessing   | Covers data cleaning, handling missing values, and feature transformation. |
-| Sampling`       | Introduces sampling methods including random, stratified, and systematic.  |
+| Sampling        | Introduces sampling methods including random, stratified, and systematic.  |
 | Probability     | Explains probability theory fundamentals and distributions.                |
 | Estimation      | Demonstrates point and interval estimation techniques.                     |
 | Nonparametric   | Covers nonparametric statistical tests such as Wilcoxon and Kruskal-Wallis.|
